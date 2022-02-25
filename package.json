@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "my simple weather app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarjiband/MyWeatherApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tarjiband/MyWeatherApp/issues"
+  },
+  "homepage": "https://github.com/tarjiband/MyWeatherApp#readme"
 }
